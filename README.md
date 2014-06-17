@@ -1,4 +1,4 @@
-credit card 
+credit card pg 1
 =====
 balance = 4213
 annualInterestRate = 0.2 
